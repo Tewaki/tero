@@ -11,7 +11,7 @@ body{
 
 .a{
     color: white;
-    background-color: rgb(255, 187, 0);
+    background-color: rgb(168, 255, 202);
     Margin: 0;
     Padding: 0;
     font-size: 56px
@@ -25,12 +25,12 @@ body{
 }
 
 .hoancheunprogramma{
-    color: rgb(255, 166, 0);
+    color: rgb(168, 255, 202);
     Margin: 0;
     Padding: 0;
     font-size: 30px;
 }
 
 .c{
-    border: solid rgb(255, 166, 0);
+    border: solid rgb(168, 255, 202);
 }
