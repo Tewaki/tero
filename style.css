@@ -11,7 +11,7 @@ body{
 
 .a{
     color: white;
-    background-color: rgb(128, 228, 97);
+    background-color: rgb(144, 247, 112);
     Margin: 0;
     Padding: 0;
     font-size: 56px
@@ -31,7 +31,7 @@ body{
     
     .a{
         color: white;
-        background-color: rgb(128, 228, 97);
+        background-color: rgb(144, 247, 112);
         Margin: 0;
         Padding: 0;
         font-size: 56px
@@ -45,7 +45,7 @@ body{
     }
     
     .hoancheunprogramma{
-        color: rgb(128, 228, 97);
+        color: rgb(144, 247, 112);
         Margin: 0;
         Padding: 0;
         font-size: 30px;
@@ -55,7 +55,7 @@ body{
 
 
 .c{
-    border: solid 
+    border: solid
 }
 
 .warning{
