@@ -11,36 +11,34 @@ body{
 
 .a{
     color: white;
-    background-color: rgb(129, 180, 247);
+    background-color: rgb(128, 228, 97);
     Margin: 0;
     Padding: 0;
     font-size: 56px
 }
 
 .b{
-    color: rgb(0, 0, 0);h1, h2,h3,h4,h5,h6
-    background-color: rgb(129, 180, 247){
+    color: black;h1, h2,h3,h4,h5,h6{
         Margin: 0;
         Padding: 0;
         }
     
     body{
-        background-color: rgb(129, 180, 247);
+        background-color: rgb(255, 255, 255);
         Margin: 0;
         Padding: 0;
     }
     
     .a{
         color: white;
-        background-color: rgb(129, 180, 247);
+        background-color: rgb(128, 228, 97);
         Margin: 0;
         Padding: 0;
         font-size: 56px
     }
     
     .b{
-        color: rgb(0, 0, 0);
-        background-color: rgb(129, 180, 247);
+        color: black;
         Margin: 0;
         Padding: 0;
         font-size: 23px;
